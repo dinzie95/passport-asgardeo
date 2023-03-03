@@ -2,7 +2,7 @@ var sinon = require('sinon');
 var pkg = require('..');
 
 
-describe('passport-openidconnect', function() {
+describe('passport-asgardeo', function() {
     
   it('should export Strategy constructor as module', function() {
     expect(pkg).to.be.a('function');

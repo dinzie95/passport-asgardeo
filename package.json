@@ -1,38 +1,15 @@
 {
-  "name": "passport-openidconnect",
+  "name": "passport-asgardeo",
   "version": "0.1.1",
-  "description": "OpenID Connect authentication strategy for Passport.",
+  "description": "Asgardeo authentication strategy for Passport.",
   "keywords": [
     "passport",
     "openid",
-    "openidconnect",
+    "asgardeo",
     "auth",
     "authn",
     "authentication",
     "identity"
-  ],
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "https://www.jaredhanson.me/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openidconnect.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jaredhanson/passport-openidconnect/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
-  },
-  "license": "MIT",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://opensource.org/licenses/MIT"
-    }
   ],
   "main": "./lib",
   "dependencies": {
